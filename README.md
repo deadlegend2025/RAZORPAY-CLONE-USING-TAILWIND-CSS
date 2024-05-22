@@ -1,4 +1,4 @@
-Certainly! Here’s a more detailed README paragraph:
+RAZORPAY CLONE USING TAILWIND CSS
 
 ---
 
